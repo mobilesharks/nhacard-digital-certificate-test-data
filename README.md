@@ -22,19 +22,19 @@ Obtenha a aplicação NhaCard QR Code Validator através do [Google PlayStore]()
 
 ## Repositórios
 
-Caso tenha a permissão necessária, aceda o [repositório de desenvolvimento]().
+Caso tenha a permissão necessária, aceda o [repositório de desenvolvimento](https://github.com/mobilesharks/nhacard-certificate-validator-android).
 
 ## Testes
 
 QR Codes de testes para NhaCard Certificados Digitais:
 
-1. [Certificado válido](CV/1.3.0/1/qr.png)
+1. [Certificado válido](CV/1.3.0/1)
 
-2. [Certificado com assinatura digital não reconhecida](CV/1.3.0/2/qr.png)
+2. [Certificado com assinatura digital não reconhecida](CV/1.3.0/2)
 
-3. [Certificado expirado](CV/1.3.0/3/qr.png)
+3. [Certificado expirado](CV/1.3.0/3)
 
-4. [Conteúdo de QR Code inválido](CV/1.3.0/4/qr.png)
+4. [Conteúdo de QR Code inválido](CV/1.3.0/4)
 
 ## Questões frequentes
 
