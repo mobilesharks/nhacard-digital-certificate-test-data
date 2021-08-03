@@ -5,9 +5,9 @@
 <p align="center">
   <a href="#sobre">Sobre</a> •
   <a href="#download">Download</a> •
-  <a href="#repositorios">Repositórios</a> •
+  <a href="#repositorios">Repositorios</a> •
   <a href="#testes">Testes</a> •
-  <a href="#questoes-frequentes">Questões frequentes</a>
+  <a href="#perguntas-frequentes">Perguntas frequentes</a>
 </p>
 
 ## Sobre
@@ -20,7 +20,7 @@ Todo o processo de validação é feita de forma _offline_ sem implementação d
 
 Obtenha a aplicação NhaCard QR Code Validator através do [Google PlayStore]() (Brevemente).
 
-## Repositórios
+## Repositorios
 
 Caso tenha a permissão necessária, aceda o [repositório de desenvolvimento](https://github.com/mobilesharks/nhacard-certificate-validator-android).
 
@@ -36,7 +36,7 @@ QR Codes de testes para NhaCard Certificados Digitais:
 
 4. [Conteúdo de QR Code inválido](CV/1.3.0/4)
 
-## Questões frequentes
+## Perguntas frequentes
 
 #### Como usá-lo?
 Aponte a câmara do seu dispositivo móvel para ler o código QR do Certificado Digital COVID apresentado. O certificado pode ser apresentado em papel ou em formato digital.
