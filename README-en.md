@@ -1,23 +1,23 @@
-<u>PT</u> [<u>EN</u>](README-en.md)
+[<u>PT</u>](README.md) <u>EN</u>
 
 <h1 align="center">
  NhaCard Certificado Digital
 </h1>
 <h2 align="center">
- Repositório de dados de testes para a aplicação móvel NhaCard QR Code Validator
+ Test Data Repository for NhaCard QR Code Validator mobile application
 </h2>
 
 <p align="center">
-  <a href="#sobre">Sobre</a> •
+  <a href="#about">About</a> •
   <a href="#download">Download</a> •
-  <a href="#repositorios">Repositorios</a> •
-  <a href="#testes">Testes</a> •
-  <a href="#perguntas-frequentes">Perguntas frequentes</a>
+  <a href="#repos">Repos</a> •
+  <a href="#tests">Tests</a> •
+  <a href="#faqs">FAQs</a>
 </p>
 
-## Sobre
+## About
 
-Este repositório contêm QR Codes de teste para automatizar os testes da aplicação NhaCard QR Code Validator, a aplicação oficial para validação de NhaCard Certificados Digitais com leitura de QR Code. 
+Este repositório contêm QR Codes de teste para automatizar os testes da aplicação NhaCard QR Code Validator, a aplicação oficial para Validação de NhaCard Certificados Digitais com leitura de QR Code. 
 
 Todo o processo de validação é feita de forma _offline_ sem implementação de nenhum _Business Rules Engine_ pelo que não valida a veracidade dos dados presentes no certificado sendo a pessoa responsável pela leitura também responsável pela validação dos dados apresentados pelo cidadão com os apresentados na aplicação.
 
@@ -25,11 +25,11 @@ Todo o processo de validação é feita de forma _offline_ sem implementação d
 
 Obtenha a aplicação NhaCard QR Code Validator através do [Google PlayStore]() (Brevemente).
 
-## Repositorios
+## Repos
 
 Caso tenha a permissão necessária, aceda o [repositório de desenvolvimento](https://github.com/mobilesharks/nhacard-certificate-validator-android).
 
-## Testes
+## Tests
 
 QR Codes de testes para NhaCard Certificados Digitais:
 
@@ -41,7 +41,7 @@ QR Codes de testes para NhaCard Certificados Digitais:
 
 4. [Conteúdo de QR Code inválido](CV/1.3.0/4)
 
-## Perguntas frequentes
+## FAQs
 
 #### Como usá-lo?
 Aponte a câmara do seu dispositivo móvel para ler o código QR do Certificado Digital COVID apresentado. O certificado pode ser apresentado em papel ou em formato digital.
