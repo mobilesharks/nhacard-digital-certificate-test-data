@@ -1,12 +1,12 @@
-# Conteúdo de QR Code inválido
+# Conteúdo de QR Code inválido / Invalid QR Code Content
 
 ## Decode Chain
 
-### QR Code de teste
+### QR Code de teste / Test QR Code
 
 ![alt text](qr.png "4 - QR Code")
 
-### Conteúdo
+### Conteúdo / Content
 
 `iVBORw0KGgoAAAANSUhEUgAAASwAAAEsAQAAAABRBrPYAAAC2UlEQVR42u2aS3LDMAxDcQPc/5a8AUuAStpRvOgq1EJtGsv2y4wl8QMyRf7nJ3Cxi13sYhe72BlYAIhIJkAmo8aoW7o8j+lFRgbrVjFIaOw701jUveJIHaMO0ElfPgGrRa1TLSs1Cfj8EIx9bjOody32EZhetdWsg8AgtP2PFvJ1bK3m/vPoWV/GPKS2PTQX2EiBp4j0dSzkKkQtquxR92kL3Zd3AnvtM7P3XgyYWNQslnbdmkmFF7mOxinr5Dim+CxCiyuPqZdHZM5j1DMrJpPe/AIrxSVzHsu6KPelfss66Tdl4nmsEwU7fSRX2FEePgFTtpAhhg3BTP76zCTmjFHXZYmOg0EHaIHjmOyPeFmBbLOeHfla4EnM7utDGtBMaL/OeSzibYu61DMC9jA4glk4OczYEP3wmg4xjumZFQahCcgkFXogU+U8lgp/LiqiP9MyCjGPOYe5mnD29aP7Y5jHpJyQ1lOtpd6pdx7riifNhn25/ToC41jnXIU/5zULKvt3ch6jyzCLqbB4oR8/dneewHIJdnb0Y3cDsKfdCcxbDMk831dW88YzDsDc0VGatQxwUdFhB/OYtpp2aosUKWW47cRxTMupGKg/DdaucysrRjAd5CiCyktcUeCtXWaxNUK3ddJCuacyjy0J8CpyZJ3dD9vV4ACmuEIvrBJwf8CV7dbSmcC65Lc/p2WBJ5UfYXAEy2wXSUdC93KM4wDMC4uuF22QS76QB2Do2kur6vJfUQafqmYE6zIbXcR2t5/5sLwDWNde0k4uGy1W9LaltglMZ92U69bmn69w5jEFPQWZaAElE1As/FBcI5hlAVtU2Qai67Mcx7qZ2b7sYsd774bAPNbJNjKXdGe0Ytky4AjmfrVDjetD7/n6fvMMzLPAKsyi9/4MTGO4TRducwYfVPQE5kI2o0tDpY7V7UTOY3BvCf6W0DnYhqkKbRy7/1xxsYtd7GIXOx/7AUd4QX+wHWUmAAAAAElFTkSuQmCC`
 
@@ -14,6 +14,6 @@
 
 `null`
 
-### Resultado
+### Resultado / Result
 
 ![alt text](result.png "4 - Resultado")

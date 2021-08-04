@@ -1,12 +1,12 @@
-# Certificado com assinatura digital não reconhecida
+# Certificado com assinatura digital não reconhecida / Certificate with unrecognized digital signature
 
 ## Decode Chain
 
-### QR Code de teste
+### QR Code de teste / Test QR Code
 
 ![alt text](qr.png "2 - QR Code")
 
-### Conteúdo
+### Conteúdo / Content
 
 `HC1:NCFOXN%TSMAHN-HYVKOM6VORZEMIZ23J4LR5QR9U21OGIYQ15C4M*4RCM1$8 NI4EFSYS:%OD3PYE9*FJUKBAZ8-.A2*CEHJ5$0BRVDD4:HO85O/RVGE85$0S.8**4H0DM%2K8AZOM1JAF.7HELDXI25P9ZI4Q5%H0AN8%H0PZBITHP+PITC6FV*$K3$OHBW24FAL86H0YQCEZK.IA.C8KRDL4O54O4IGUJKJGI0JAXD15IAXMFU*GSHGRKMXGG6DBYCB-1JMJKR.KSHGXGG*EDZI9$JAQJKH+GX2MELNJIKSKE MCAOI8%MI*RF*QGOKL*GT*QQ+Q/PKI%KH N7BM1US+M5XZQNI95J0/ B1-VJD0DRG.Y7PR3YZQ H95+NERGZUIOAGIY1VS11O1MP3S-5GWKGRI- ANQDRAQ8R2V1LDCQ2ZQEZMPUNDRBRFD5/1SFITFW24PAAL3FV$HCC%4K9M5NNBTLPKB%RCHCU*CCZM6PMT:3QUTV*-4DHRCAF`
 
@@ -34,6 +34,6 @@
 
 `VerificationResult(expirationTime=null, issuedAt=null, issuer=null, certificateValidFrom=null, certificateValidUntil=null, certificateValidContent=[TEST, VACCINATION, RECOVERY], certificateSubjectCountry=null, content=[], error=KEY_NOT_IN_TRUST_LIST, errorDetails=null)`
 
-### Resultado
+### Resultado / Result
 
 ![alt text](result.png "2 - Resultado")
