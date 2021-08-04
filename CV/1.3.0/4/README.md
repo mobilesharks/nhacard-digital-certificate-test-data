@@ -13,3 +13,7 @@
 ### Step 5 Prefixed
 
 `null`
+
+### Resultado
+
+![alt text](result.png "4 - Resultado")
