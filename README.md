@@ -1,5 +1,4 @@
-<u>![alt text](assets/img/flags/portugal.png)</u> [<u>![alt text](assets/img/flags/united-kingdom.png)</u>](README-en.md)
-
+![alt text](assets/img/flags/globe.png) <u>Português</u> [<u>English</u>](README-en.md)
 <h1 align="center">
  NhaCard Certificado Digital
 </h1>
