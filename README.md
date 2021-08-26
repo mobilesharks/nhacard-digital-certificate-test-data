@@ -55,5 +55,11 @@ Este aplicativo não garante a segurança do titular do Certificado Digital COVI
 #### Identificação legal
 A apresentação do Certificado Digital COVID não serve como forma de identificação do portador, faltando sempre a apresentação de documento oficial de identificação válido e legítimo.
 
+#### Uso da câmera
+O aplicativo utiliza a câmera do dispositivo exclusivamente para efetuar o scanner do QR Code, mediante consentimento prévio.
+
 #### Proteção de Dados Pessoais
-O aplicativo não armazena nenhum tipo de dados pessoais.
+A exibição dos dados pessoais contidos no QR Code é temporária no aplicativo, não permitindo que sejam guardados, e o utilizador do aplicativo se compromete a não guardar estes dados por nenhum outro meio.
+
+#### Direitos do titular
+O titular do certificado pode livremente mostrar o QR Code de seu certificado digital ao utilizador do aplicativo. Decidindo fazê-lo, o titular estará a comunicar os seus dados de identidade e conteúdo do certificado a essa pessoa, utilizador do aplicativo.

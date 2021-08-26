@@ -55,5 +55,11 @@ This application does not guarantee the security of the holder of the COVID Digi
 #### Legal identification
 The presentation of the COVID Digital Certificate does not serve as a form of identification of the bearer, always lacking the presentation of a valid and legitimate official identification document.
 
+#### Camera usage
+The application uses the device's camera exclusively to scan the QR Code, with prior consent.
+
 #### Personal Data Protection
-The app does not store any kind of personal data.
+The display of personal data in the QR Code is temporary in the application, not allowing them to be stored, and the application user undertakes not to store this data by any other means.
+
+#### Rights of the holder
+The certificate holder can freely show the QR Code of his digital certificate to the application user. By deciding to do so, the titleholder will be communicating their identity data and content of the certificate to that person, the user of the application.
