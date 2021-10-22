@@ -32,7 +32,13 @@ Caso tenha a permissão necessária, aceda o [repositório de desenvolvimento](h
 
 QR Codes de testes para NhaCard Certificados Digitais:
 
-1. [Certificado válido](CV/1.3.0/1)
+1. Certificados válidos
+
+    1.1. [Certificado de Vacinação](CV/1.3.0/1/1.1)
+
+    1.2. [Certificado de Teste](CV/1.3.0/1/1.2)
+
+    1.3. [Certificado de Recuperação](CV/1.3.0/1/1.3)
 
 2. [Certificado com assinatura digital não reconhecida](CV/1.3.0/2)
 
