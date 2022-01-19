@@ -32,7 +32,13 @@ If you have the necessary permission, access the [development repository](https:
 
 Test QR Codes for NhaCard Digital Certificates:
 
-1. [Valid certificate](CV/1.3.0/1)
+1. Valid certificates
+
+   1.1. [Vaccine Certificate](CV/1.3.0/1/1.1)
+
+   1.2. [Test Certificate](CV/1.3.0/1/1.2)
+
+   1.3. [Recovery Certificate](CV/1.3.0/1/1.3)
 
 2. [Certificate with unrecognized digital signature](CV/1.3.0/2)
 

@@ -16,4 +16,5 @@
 
 ### Resultado / Result
 
-![alt text](result.png "4 - Resultado")
+![alt text](result-android.png "4 - Resultado Android")
+![alt text](result-ios.png "4 - Resultado iOS")

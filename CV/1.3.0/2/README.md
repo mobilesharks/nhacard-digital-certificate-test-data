@@ -36,4 +36,5 @@
 
 ### Resultado / Result
 
-![alt text](result.png "2 - Resultado")
+![alt text](result-android.png "2 - Resultado Android")
+![alt text](result-ios.png "2 - Resultado iOS")

@@ -13,9 +13,11 @@
 ![alt text](1/1.1/qr.png "1.1 - QR Code")
 
 
-* [Resultado esperado de leitura](1/1.1/result.png)
+* [Resultado esperado de leitura Android](1/1.1/result-android.png)
+* [Resultado esperado de leitura iOS](1/1.1/result-android.png)
   
-![alt text](1/1.1/result.png "1.1 - Result")
+![alt text](1/1.1/result-android.png "1.1 - Result Android")
+![alt text](1/1.1/result-ios.png "1.1 - Result iOS")
 
 ### 1.2. Certificado de Teste válido / Valid Test Certificate
 
@@ -26,9 +28,11 @@
 ![alt text](1/1.2/qr.png "1.2 - QR Code")
 
 
-* [Resultado esperado de leitura](1/1.2/result.png)
+* [Resultado esperado de leitura Android](1/1.2/result-android.png)
+* [Resultado esperado de leitura iOS](1/1.2/result-ios.png)
 
-![alt text](1/1.2/result.png "1.2 - Result")
+![alt text](1/1.2/result-android.png "1.2 - Result Android")
+![alt text](1/1.2/result-ios.png "1.2 - Result iOS")
 
 ### 1.3. Certificado de Recuperação válido / Valid Recovery Certificate
 
@@ -39,9 +43,11 @@
 ![alt text](1/1.3/qr.png "1.3 - QR Code")
 
 
-* [Resultado esperado de leitura](1/1.3/result.png)
+* [Resultado esperado de leitura Android](1/1.3/result-android.png)
+* [Resultado esperado de leitura iOS](1/1.3/result-ios.png)
 
-![alt text](1/1.3/result.png "1.3 - Result")
+![alt text](1/1.3/result-android.png "1.3 - Result Android")
+![alt text](1/1.3/result-ios.png "1.3 - Result iOS")
 
 ### 2. Certificado com assinatura digital não reconhecida / Certificate with unrecognized digital signature
 
@@ -52,9 +58,11 @@
 ![alt text](2/qr.png "2 - QR Code")
 
 
-* [Resultado esperado de leitura](2/result.png)
+* [Resultado esperado de leitura Android](2/result-android.png)
+* [Resultado esperado de leitura iOS](2/result-ios.png)
 
-![alt text](2/result.png "2 - Result")
+![alt text](2/result-android.png "2 - Result Android")
+![alt text](2/result-ios.png "2 - Result iOS")
 
 ### 3. Certificado expirado / Expired certificate
 
@@ -65,9 +73,11 @@
 ![alt text](3/qr.png "3 - QR Code")
 
 
-* [Resultado esperado de leitura](3/result.png)
+* [Resultado esperado de leitura Android](3/result-android.png)
+* [Resultado esperado de leitura iOS](3/result-ios.png)
 
-![alt text](3/result.png "3 - Result")
+![alt text](3/result-android.png "3 - Result Android")
+![alt text](3/result-ios.png "3 - Result iOS")
 
 ### 4. Conteúdo de QR Code inválido / Invalid QR Code Content
 
@@ -78,6 +88,8 @@
 ![alt text](4/qr.png "4 - QR Code")
 
 
-* [Resultado esperado de leitura](4/result.png)
+* [Resultado esperado de leitura Android](4/result-android.png)
+* [Resultado esperado de leitura iOS](4/result-ios.png)
 
-![alt text](4/result.png "4 - Result")
+![alt text](4/result-android.png "4 - Result Android")
+![alt text](4/result-ios.png "4 - Result iOS")
