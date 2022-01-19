@@ -3,7 +3,7 @@
  NhaCard Certificado Digital
 </h1>
 <h2 align="center">
- Repositório de dados de testes para a aplicação móvel NhaCard QR Code Validator
+ Repositório de dados de testes para a aplicação móvel NhaCard Validator
 </h2>
 
 <p align="center">
@@ -16,17 +16,19 @@
 
 ## Sobre
 
-Este repositório contêm QR Codes de teste para automatizar os testes da aplicação NhaCard QR Code Validator, a aplicação oficial para validação de NhaCard Certificados Digitais com leitura de QR Code. 
+Este repositório contêm QR Codes de teste para automatizar os testes da aplicação NhaCard Validator, a aplicação oficial para validação de NhaCard Certificados Digitais com leitura de QR Code. 
 
 Todo o processo de validação é feita de forma _offline_ sem implementação de nenhum _Business Rules Engine_ pelo que não valida a veracidade dos dados presentes no certificado sendo a pessoa responsável pela leitura também responsável pela validação dos dados apresentados pelo cidadão com os apresentados na aplicação.
 
 ## Download
 
-Obtenha a aplicação NhaCard QR Code Validator através do [Google PlayStore]() (Brevemente).
+Obtenha a aplicação NhaCard Validator através do [Google PlayStore](https://play.google.com/store/apps/details?id=cv.nosi.app.nhacard.validator) e da [App Store]() (Brevemente).
 
 ## Repositorios
 
-Caso tenha a permissão necessária, aceda o [repositório de desenvolvimento](https://github.com/mobilesharks/nhacard-certificate-validator-android).
+Caso tenha a permissão necessária, aceda os repositórios de desenvolvimento:
+* [Android](https://github.com/mobilesharks/nhacard-certificate-validator-android)
+* [iOS](https://github.com/mobilesharks/nhacard-validator-ios)
 
 ## Testes
 
