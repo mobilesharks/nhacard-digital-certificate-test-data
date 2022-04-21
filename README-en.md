@@ -22,7 +22,7 @@ The entire validation process is done offline without implementing any Business 
 
 ## Download
 
-Get the NhaCard Validator app on [Google PlayStore](https://play.google.com/store/apps/details?id=cv.nosi.app.nhacard.validator) and on [App Store]() (Coming Soon).
+Get the NhaCard Validator app on [Google PlayStore](https://play.google.com/store/apps/details?id=cv.nosi.app.nhacard.validator) and on [App Store](https://apps.apple.com/us/app/nhacard-validator/id1612251739).
 
 ## Repos
 
